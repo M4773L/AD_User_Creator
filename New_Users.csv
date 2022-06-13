@@ -1,0 +1,6 @@
+Firstname,Lastname,Initials,Fullname,Username,Email,Password,City,State,Country,Phone,Department,OU
+Zarah,Pena,ZP,Zarah Pena,z.pena,z.pena@<Change_Me>,Password-22!,Adelaide,SA,AU,61499455738,Finance,"OU=Finance,OU=Business_Management,OU=AD_Users,DC=<Change_Me>,DC=>Change_Me"
+Elaine,Bowman,EB,Elaine Bowman,e.bowman,e.bowman@<Change_Me>,Password-22!,Perth,WA,AU,61499455163,Developers,"OU=Developers,OU=IT_Services,OU=AD_Users,DC=<Change_Me>,DC=>Change_Me"
+Thomas,Pena,TP,Thomas Pena,t.pena,t.pena@<Change_Me>,Password-22!,Sydney,NSW,AU,61499455394,Developers,"OU=Developers,OU=IT_Services,OU=AD_Users,DC=<Change_Me>,DC=>Change_Me"
+Gabby,Harper,GH,Gabby Harper,g.harper,g.harper@<Change_Me>,Password-22!,Brisbane,QLD,AU,61499455753,Analysts,"OU=Analysts,OU=IT_Services,OU=AD_Users,DC=<Change_Me>,DC=>Change_Me"
+Bert,Fields,BF,Bert Fields,b.fields,b.fields@<Change_Me>,Password-22!,Adelaide,SA,AU,61499455510,Developers,"OU=Developers,OU=IT_Services,OU=AD_Users,DC=<Change_Me>,DC=>Change_Me"
